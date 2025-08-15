@@ -1,0 +1,38 @@
+body {
+    background-image: url('./assets/clouds.webp');
+    background-size: cover;
+    font-family: "Courier New", system-ui;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#subHeader {
+    text-align: center;
+}
+
+.moreHeaders {
+    text-align: center;
+}
+
+#name {
+    color: rgb(0, 255, 221);
+}
+
+#footer {
+    font-size: 10px;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    border: 5px solid rgb(137, 129, 240);
+    display: block;
+    margin: 10px auto;
+}
+
+
+li {
+    text-align: left;
+    margin-bottom: 10px;
+}
